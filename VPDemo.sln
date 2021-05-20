@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPDemo", "VPDemo\VPDemo.csproj", "{9300A7BF-653A-4C2C-AA43-94EA1A6854D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcFaceSharp", "ArcFaceSharp\ArcFaceSharp.csproj", "{A6C33D98-7B54-46C7-AD3C-9740D327D65D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9300A7BF-653A-4C2C-AA43-94EA1A6854D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9300A7BF-653A-4C2C-AA43-94EA1A6854D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9300A7BF-653A-4C2C-AA43-94EA1A6854D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9300A7BF-653A-4C2C-AA43-94EA1A6854D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C33D98-7B54-46C7-AD3C-9740D327D65D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C33D98-7B54-46C7-AD3C-9740D327D65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C33D98-7B54-46C7-AD3C-9740D327D65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C33D98-7B54-46C7-AD3C-9740D327D65D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7F17A59-F6CA-48CD-8D6B-EEBB02C8836F}
+	EndGlobalSection
+EndGlobal
